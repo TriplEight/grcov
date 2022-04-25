@@ -44,7 +44,7 @@ semver = "^0.10"
 md-5 = "^0.9"
 zip = { version = "^0.4", default-features = false }
 tempfile = "^3"
-uuid = { version = "^0.8", features = ["v4"] }
+uuid = { version = "^1.0", features = ["v4"] }
 globset = "^0.4"
 quick-xml = "^0.18"
 smallvec = "^1.4"
